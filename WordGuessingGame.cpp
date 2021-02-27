@@ -5,16 +5,25 @@
 using namespace std;
 int call();
 void display();
+void menu()
+{
+	int n;
+	cout << "                        ------------- WELCOME TO OUR GAME -------------" << endl;
+
+	cout << endl << endl;
+	cout << "                                   ---------- MENU ----------" << endl;
+	cout << endl << endl;
+	cout << "                               PLAY (press any key to continue)" << endl;
+
+	cin >> n;
+
+}
 int main()
 {
 	menu();
 	cout << endl << endl;
 	char a;
 	cout << "***********************************************Word Gussing Game************************************************\n\n" << endl;
-
-
-
-
 
 	char n;
 	string Name;
@@ -24,28 +33,20 @@ int main()
 	int score = 0;
 	do
 	{
-
-
-
-
-
 		system("cls");
 		display();
 		score += call();
 		cout << "Do you want to play again y/n   :   ";
 		cin >> n;
 		cout << endl;
-	} while (n != 'n');
+	} 
+	while (n != 'n');
 	cout << Name << "  ";
 	cout << "your score is   :   " << score << endl;
 	cout << "\n\n\t***************************************************************************************************************\n\n" << endl;
 }
 int call()
 {
-
-
-
-
 
 	int hint;
 	string output;
@@ -101,10 +102,6 @@ int call()
 		}
 		cout << endl;
 	}
-
-
-
-
 
 	string guess;
 	cout << "Press 1 for Guess number    " << endl;
