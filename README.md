@@ -4,7 +4,7 @@
 
 
 Участници      |  Имейли                      | Роли
----------------|------------------------------|
+---------------|------------------------------|---------------
 Димитър Грудов | DHGrudov19@codingburgas.bg   | Scrum trainer
 Петър Чапкънов | PHChapkanov19@codingburgas.bg| Code checker
 Венилин Дончев | VDDonchev@codingburgas.bg    | Front end
