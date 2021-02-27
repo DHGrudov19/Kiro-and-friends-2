@@ -3,12 +3,12 @@
 
 
 
-Участници | Имейли | Роли
--------|-------------------|
-Димитър Грудов | DHGrudov19@codingburgas.bg | Scrum trainer
+Участници      |  Имейли                      | Роли
+---------------|------------------------------|
+Димитър Грудов | DHGrudov19@codingburgas.bg   | Scrum trainer
 Петър Чапкънов | PHChapkanov19@codingburgas.bg| Code checker
-Венилин Дончев | VDDonchev@codingburgas.bg| Front end
-Кирил Димитров | KGDimitrov19@codingburgas.bg| Back end
+Венилин Дончев | VDDonchev@codingburgas.bg    | Front end
+Кирил Димитров | KGDimitrov19@codingburgas.bg | Back end
 
 Functions | The usage of them
 -------|------------
